@@ -1,0 +1,6 @@
+classes=431
+train=data/train_coco_format.txt
+valid=data/test_coco_format.txt
+names=data/compcars.names
+backup=backup/
+eval=coco

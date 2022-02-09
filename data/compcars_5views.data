@@ -1,0 +1,6 @@
+classes=5
+train=data/train_coco_format.txt
+valid=data/test_coco_format.txt
+names=data/compcars_5views.names
+backup=backup/
+eval=coco
