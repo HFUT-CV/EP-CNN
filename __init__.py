@@ -1,0 +1,1 @@
+from .globalvar import *

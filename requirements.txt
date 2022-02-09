@@ -1,0 +1,2 @@
+# pip3 install -U -r requirements.txt
+# conda install numpy opencv matplotlib tqdm && conda install pytorch torchvision -c pytorch
